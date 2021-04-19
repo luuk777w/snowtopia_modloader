@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dE7ib91gLkLyVonjpCRiARv95CXsJcgv5V8auDNwhtDnYEVlQYc8VNm61EEAEXCqSmf0ad4tw5BQ5NDi8BIHsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luukw\\source\\repos\\SnowTopia_ModLoader\\SnowTopia_ModLoader\\SnowTopia_ModLoader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luukw\\.nuget\\packages\\dnlib\\3.3.2\\dnlib.3.3.2.nupkg.sha512",
+    "C:\\Users\\luukw\\.nuget\\packages\\microsoft-windowsapicodepack-core\\1.1.4\\microsoft-windowsapicodepack-core.1.1.4.nupkg.sha512",
+    "C:\\Users\\luukw\\.nuget\\packages\\microsoft-windowsapicodepack-shell\\1.1.4\\microsoft-windowsapicodepack-shell.1.1.4.nupkg.sha512",
+    "C:\\Users\\luukw\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\luukw\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\luukw\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
